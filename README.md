@@ -12,4 +12,7 @@ web tarafında Angular, mobilde Flutter ve React Native kullanıyorum.
 · [Mobil](https://github.com/ahmetefekoc61-bit/gorev-takip-mobile)
 · .NET 10 · Angular 22 · Flutter · PostgreSQL · Docker
 
+**Sistem tarafı** — Kod yazmanın yanında sistem yönetimi öğreniyorum:
+VMware vSphere / ESXi · Hyper-V · sunucu ve depolama · Docker ile konteynerleştirme ve bulutta yayına alma (Render, Neon)
+
 📫 ahmetefekoc61@gmail.com
