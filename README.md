@@ -1,7 +1,11 @@
 # Ahmet Efe Koç
 
-Bilgisayar mühendisliği öğrencisi. .NET, Angular ve Flutter ile tam yığın
-uygulamalar geliştiriyorum.
+Bilgisayar mühendisliği öğrencisi. .NET ve PostgreSQL ağırlıklı backend geliştiriyorum;
+web tarafında Angular, mobilde Flutter ve React Native kullanıyorum.
+
+**Çiftliğim** — Tarım ve hayvancılık için çok kullanıcılı mobil uygulama (sahada kullanılıyor)
+· [Kaynak kod](https://github.com/ahmetefekoc61-bit/Ciftligim)
+· ASP.NET Core · PostgreSQL · React Native / Expo · Kotlin + ML Kit (küpe okuma) · Docker · Render
 
 **Görev Takip** — Ekipler için görev yönetim sistemi
 · [API + Web](https://github.com/ahmetefekoc61-bit/gorev-takip)
